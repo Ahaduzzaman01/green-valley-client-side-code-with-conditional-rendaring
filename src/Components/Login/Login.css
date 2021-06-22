@@ -1,0 +1,26 @@
+.login-container {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    border: 2px solid #9d8afd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f9f7ff;
+    cursor: pointer;
+}
+
+.login-wrapper:hover {
+    background-color: white;
+}
+
+.login-wrapper img {
+    width: 35px;
+    margin-right: 15px;
+}

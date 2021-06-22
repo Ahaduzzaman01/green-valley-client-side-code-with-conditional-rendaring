@@ -1,0 +1,10 @@
+.orders-page-loading-spinner{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-name{
+    color: #9d8afd;
+}

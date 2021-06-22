@@ -1,0 +1,30 @@
+.custom-btn {
+    background: linear-gradient(45deg, #9985fd, #c5baff);
+    color: white;
+    outline: none;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.custom-btn:hover {
+    background: linear-gradient( 45deg, #c5baff, #9985fd);
+}
+
+.custom-card {
+    border: none;
+}
+
+.custom-card-body {
+    background-color: #F4F1FF;
+    border: none;
+}
+
+.custom-card-body .price {
+    color: #9d8afd;
+}
+
+.custom-card-body .money-icon {
+    font-size: 32px;
+}

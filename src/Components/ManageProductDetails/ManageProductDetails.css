@@ -1,0 +1,20 @@
+.money-icon{
+    font-size: 20px;
+}
+
+.edit-icon, .delete-icon {
+    color: white;
+    padding: 8px;
+    vertical-align: middle;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit-icon {
+    background-color: green;
+    margin-right: 8px;
+}
+
+.delete-icon{
+    background-color: red;
+}

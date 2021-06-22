@@ -1,0 +1,16 @@
+.search-btn {
+    background-color: #9d8afd;
+    color: white;
+    outline: none;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.home-page-loading-spinner{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
